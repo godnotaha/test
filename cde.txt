@@ -4,3 +4,11 @@ git push
 git pull
 git remote
 git clone
+
+git status
+git add . ( Или название файла)
+git commit -m ""
+git rm --cached (название файла)
+git branch
+git checkout -b (названеи ветки)
+
