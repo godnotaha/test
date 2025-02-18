@@ -1,0 +1,3 @@
+﻿  2semestr.cpp
+D:\sport_programm\2semestr\2semestr\2semestr.cpp(83,12): warning C4101: kol_num: неиспользованная локальная переменная
+  2semestr.vcxproj -> D:\sport_programm\2semestr\x64\Debug\2semestr.exe
